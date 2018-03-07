@@ -23,4 +23,4 @@ Paper
 
 
 
-## various applied 
+## various apply
